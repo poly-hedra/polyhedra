@@ -1,7 +1,3 @@
-<div align="center">
-
-  <h1>👋 Hello, I'm a Math Major Exploring AI</h1>
-
   <p>
     <strong>수학 전공자</strong> 🎓 <br/>
     <strong>AI / 머신러닝은 이제 막 시작한 입문자</strong> 🤖✨
@@ -30,7 +26,6 @@
     <li>📊 Linear Algebra & Probability (수학적 기초)</li>
     <li>🐍 Python for AI</li>
     <li>🤖 Machine Learning basics</li>
-    <li>⚙️ FastAPI & Backend fundamentals</li>
   </ul>
 
   <hr/>
